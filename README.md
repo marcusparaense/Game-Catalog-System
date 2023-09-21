@@ -3,5 +3,5 @@
 > Status: Em desenvolvimento
 
 ```
-mds install react
+node app.js
 ```
